@@ -1,1 +1,3 @@
-# acompanhamento_de_vendas_excel
+# Acompanhamento de Vendas
+
+![Vendas](images/1.png)
